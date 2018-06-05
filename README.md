@@ -1,8 +1,6 @@
-# ibm_blockchain
+# NullCoin
 
-Developing a blockchain application from scratch in Python
-
-Explained in detail [here](https://www.ibm.com/developerworks/cloud/library/cl-develop-blockchain-app-in-python/index.html)
+Developing a blockchain application from scratch in Python based on the blockchain used by the following IBM tutorial: [here](https://www.ibm.com/developerworks/cloud/library/cl-develop-blockchain-app-in-python/index.html)
 
 ### Instructions to run
 
@@ -12,7 +10,7 @@ Start a blockchain node server,
 >>> python node_server.py
 ```
 
-Run our application,
+Run the application,
 
 ```sh
 >>> python run_app.py
